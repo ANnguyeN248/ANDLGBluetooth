@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">G_BLUETOOTH</string>
+    <string name="Disconnect"></string>
+    <string name="Connect"></string>
+</resources>
